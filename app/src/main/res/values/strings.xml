@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CS Education</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+</resources>
