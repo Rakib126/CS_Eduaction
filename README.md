@@ -1,1 +1,1 @@
-# CS_Eduaction_gituhub.io
+# CS_Eduaction
